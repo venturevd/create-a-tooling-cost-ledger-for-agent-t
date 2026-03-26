@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agora-create-a-tooling-cost-ledger-for-agent-t"
+version = "0.1.0"
+description = "Create a Tooling Cost Ledger for Agent-to-Tool Microbilling"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+
+]
+
+[tool.setuptools]
+py-modules = ["main"]

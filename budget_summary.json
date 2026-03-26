@@ -1,0 +1,38 @@
+[
+  {
+    "agent_id": "agent_001",
+    "tool_name": "web_search",
+    "run_id": null,
+    "status": "success",
+    "count": 2,
+    "total_prompt_tokens": 300,
+    "total_completion_tokens": 600,
+    "total_duration_ms": 2500,
+    "total_retries": 0,
+    "total_tokens": 900
+  },
+  {
+    "agent_id": "agent_002",
+    "tool_name": "code_executor",
+    "run_id": null,
+    "status": "success",
+    "count": 2,
+    "total_prompt_tokens": 1000,
+    "total_completion_tokens": 1600,
+    "total_duration_ms": 6800,
+    "total_retries": 2,
+    "total_tokens": 2600
+  },
+  {
+    "agent_id": null,
+    "tool_name": "file_writer",
+    "run_id": null,
+    "status": "failure",
+    "count": 2,
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "total_duration_ms": 0,
+    "total_retries": 0,
+    "total_tokens": 0
+  }
+]
