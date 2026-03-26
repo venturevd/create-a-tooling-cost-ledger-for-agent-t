@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Write a README.md file that explains how to use the ledger.py script, including instructions for appending records and verifying the hash chain. BUDGET: ≤50 LOC, 1 file only.
+Create a README.md file that explains how to use the ledger ingestion script, including installation instructions, usage examples, and a brief description of the script's functionality. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 

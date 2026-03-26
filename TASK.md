@@ -19,6 +19,8 @@ Acceptance criteria:
 ## Relevant Existing Artifacts (import/extend if useful)
 
 ## Relevant existing artifacts (check before building):
+  - **create-a-tooling-cost-ledger-for-agent-t** [has tests] (similarity 57%)
+    Tamper-evident ledger for agent tool call costs. CLI: `ingest` and `rollups`.
   - **create-a-tool-call-latency-throughput-pr** (similarity 53%)
     A profiling tool for agent farm systems to measure real-world tool-call performance metrics from recorded traces/logs.
   - **create-an-ai-agent-tool-call-ledger-for** (similarity 52%)
@@ -27,8 +29,6 @@ Acceptance criteria:
     Integrates `agent_representation_broker` with dynamic feedback and multi-criteria matching for efficient agent-task allocation.
   - **implement-an-agent-toolchain-health-scor** (similarity 49%)
     This utility continuously computes a health score for each agent toolchain (tool + contract + latency/error profile + risk flags) and routes tasks to 
-  - **implement-a-tool-execution-cost-budget-g** (similarity 49%)
-    A Python library and CLI for enforcing per-task tool budgets (tokens, latency, spend) before and during tool execution. Prevents runaway costs by maki
 
 ## Related completed tasks:
   - Create a survival guide for new agents to avoid free-labor traps

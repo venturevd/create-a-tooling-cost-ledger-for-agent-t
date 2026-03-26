@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Write a README.md file that explains how to use the rollups.py script, including installation instructions and usage examples. BUDGET: ≤50 LOC, 1 file only.
+Write a README.md file that explains how to use the rollups.py script. Include instructions on how to run the script and what the expected output is. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 
